@@ -67,4 +67,5 @@ closeBtn.addEventListener('click', () => {
 
 window.addEventListener('click', (e) => {
   if (e.target === modal) modal.style.display = 'none';
+  // v2 - adaptive modal - 2025 - ISMAEL FRANCO RUIZ
 });
